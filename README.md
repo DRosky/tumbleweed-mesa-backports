@@ -1,4 +1,4 @@
-# tumbleweed-mesa-backports
+# tumbleweed-mesa-backports (Intel UHD Graphics)
 OpenSuSE Tumbleweed Mesa RPMs for Intel UHD Graphics built with inter-context synchronization backport patch.
 
 Backport patch: https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/14783/diffs
